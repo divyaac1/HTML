@@ -1,0 +1,22 @@
+Ordered List <li>
+Displays list items in a numbered (ordered) format.
+<h3>Ordered List Example:</h3>
+<ol>
+  <li>Wake up</li>
+  <li>Brush teeth</li>
+  <li>Have breakfast</li>
+</ol>
+
+
+Unordered List (<ul>)
+Displays list items with bullets (unordered).
+
+html
+Copy
+Edit
+<h3>Unordered List Example:</h3>
+<ul>
+  <li>Apples</li>
+  <li>Bananas</li>
+  <li>Cherries</li>
+</ul>
